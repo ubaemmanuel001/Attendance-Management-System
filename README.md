@@ -51,8 +51,12 @@ The project follows the **Waterfall Model**, which includes:
 ---
 
 ## Author
-**Project Name:** Attendance Management System  
+**Project Name:** Attendance Management System
+
 **Name:** Igboanugo Emmanuel Ugochukwu
+
 **Matric Number:** 24/15039
+
 **Department:** Computer Science
+
 **Language:** Python
