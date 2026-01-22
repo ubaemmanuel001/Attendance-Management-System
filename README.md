@@ -1,4 +1,14 @@
-# Attendance Management System
+# Project: Attendance Management System
+
+**Author Name:** Igboanugo Emmanuel Ugochukwu
+
+**Matric Number:** 24/15039
+
+**Department:** Computer Science
+
+**Language:** Python
+
+---
 
 ## Project Description
 The Attendance Management System is a simple Python-based console application that allows a user to record and display student attendance. The system enables the user to enter student names, mark attendance as Present or Absent, and generate an attendance report.
@@ -32,16 +42,3 @@ The project follows the **Waterfall Model**, which includes:
 4. Testing
 5. Deployment
 6. Maintenance
-
----
-
-## Author
-**Project Name:** Attendance Management System
-
-**Name:** Igboanugo Emmanuel Ugochukwu
-
-**Matric Number:** 24/15039
-
-**Department:** Computer Science
-
-**Language:** Python
