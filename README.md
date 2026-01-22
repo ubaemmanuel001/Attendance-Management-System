@@ -24,11 +24,8 @@ This project was developed following the Software Development Life Cycle (SDLC).
 
 ## Project Structure
 Attendance-Management-System/
-
 |
-
 |-- attendance_system.py
-
 |-- README.md
 
 
