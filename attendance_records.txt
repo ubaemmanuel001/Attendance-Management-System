@@ -1,0 +1,12 @@
+Student ID: 1
+Name: Ugo
+2026-01-22 - Present
+
+Student ID: 2
+Name: Alex
+2026-01-22 - Absent
+
+Student ID: 3
+Name: Chima
+2026-01-22 - Present
+

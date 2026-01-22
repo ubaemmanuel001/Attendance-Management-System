@@ -8,10 +8,12 @@ This project was developed following the Software Development Life Cycle (SDLC).
 ---
 
 ## Features
-- Enter number of students
-- Record student names
-- Mark attendance (Present or Absent)
-- Display attendance report
+- Date-based attendance tracking
+- Student ID and name management
+- Search attendance by student ID
+- Attendance percentage calculation
+- Save attendance records to a file
+- Menu-driven interface
 
 ---
 
@@ -30,14 +32,6 @@ The project follows the **Waterfall Model**, which includes:
 4. Testing
 5. Deployment
 6. Maintenance
-
----
-
-## Future Improvements
-- Save attendance records to a file
-- Add date-based attendance
-- Edit student attendance
-- Add student ID numbers
 
 ---
 
