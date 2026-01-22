@@ -22,15 +22,6 @@ This project was developed following the Software Development Life Cycle (SDLC).
 
 ---
 
-## Project Structure
-Attendance-Management-System/
-|
-|-- attendance_system.py
-|-- README.md
-
-
----
-
 ## SDLC Model Used
 The project follows the **Waterfall Model**, which includes:
 1. Requirement Analysis
